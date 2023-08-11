@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.1.0
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: author@email.com
+author_name: Author Name
+data_format: string
+file_extension: ''
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: tst-widget-extension
+mimetype: ''
+mimetype_name: ''
+project_short_description: A JupyterLab extension.
+python_name: tst_widget_extension
+repository: https://github.com/ihuicatl/tst-widget-extension
+test: true
+viewer_name: ''
+
